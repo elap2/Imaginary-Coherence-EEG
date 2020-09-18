@@ -128,3 +128,5 @@ def coherency(sampling_frequency,data):
     return Coh
 ```
 #### You need to incorporate the loading file to the main.py as it fits to your project
+## 4. Contact
+
