@@ -10,7 +10,10 @@ Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, 
 
 ### Equations
 #### ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c64700cf2b13cd0dfa20b45c9a591a29c142d52)
+
 #### ![](fnsys-09-00175-g0002.jpg)
+
+#### ![equation] https://i.stack.imgur.com/T7YJr.jpg
 
 #### https://pubmed.ncbi.nlm.nih.gov/15351371/
 
