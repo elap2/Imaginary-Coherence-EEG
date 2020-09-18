@@ -1,10 +1,20 @@
 # Imaginary-Coherence-EEG
 
 ## 1. Background
-### Papers selected: Identifying true brain interaction from EEG data using the imaginary part of coherency
+### Papers selected: 
+### .- Identifying true brain interaction from EEG data using the imaginary part of coherency
 Guido Nolte 1, Ou Bai, Lewis Wheaton, Zoltan Mari, Sherry Vorbach, Mark Hallett
 Affiliations collapse
 Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, Bldg 10, Room 5N226, Bethesda, MD 20892-1428, USA. nolteg@ninds.nih.gov
+### .- A Tutorial Review of Functional Connectivity Analysis Methods and Their Interpretational Pitfalls
+André M. Bastos1,* and Jan-Mathijs Schoffelen2,3,*
+1Department of Brain and Cognitive Sciences, The Picower Institute for Learning and Memory, Massachusetts Institute of Technology, Cambridge, MA, USA
+2Neurobiology of Language Department, Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands
+3Donders Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen, Nijmegen, Netherlands
+Edited by: Mikhail Lebedev, Duke University, USA
+Reviewed by: Karim Jerbi, University of Montreal, Canada; Mingzhou Ding, University of Florida, USA; Craig Geoffrey Richter, Ernst Strüngmann Institute, Germany
+*Correspondence: André M. Bastos moc.liamg@sotsabmerdna;
+Jan-Mathijs Schoffelen ln.ur.srednod@neleffohcs.naj
 
 ### Equations
 #### ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c64700cf2b13cd0dfa20b45c9a591a29c142d52)
