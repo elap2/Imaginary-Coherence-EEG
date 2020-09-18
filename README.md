@@ -13,7 +13,7 @@ Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, 
 
 
 ## 3. This is the Motor-Code 
-#### [\Python 3.7](https://https://www.python.org/) 
+#### [Python 3.7](https://https://www.python.org/) 
 
 ```python
 # -*- coding: utf-8 -*-
