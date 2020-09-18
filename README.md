@@ -107,5 +107,5 @@ def coherency(sampling_frequency,data):
     return Coh
 ```
 ## 3. Required Changes and Output
-![](coherency.jpg)
+![](Analysis.png)
 You need to incorporate the loading file to the main.py as it fits to your project
