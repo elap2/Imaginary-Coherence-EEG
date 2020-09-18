@@ -8,7 +8,10 @@ Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, 
 
 #### https://pubmed.ncbi.nlm.nih.gov/15351371/
 
-## 2. This is the Motor-Code 
+## 2. Output
+![](Analysis.png)
+
+## 3. This is the Motor-Code 
 #### [\Python 3.7](https://https://www.python.org/) 
 
 ```python
@@ -106,6 +109,4 @@ def coherency(sampling_frequency,data):
     print('TRIO',TRIO)
     return Coh
 ```
-## 3. Required Changes and Output
-![](Analysis.png)
-You need to incorporate the loading file to the main.py as it fits to your project
+#### You need to incorporate the loading file to the main.py as it fits to your project
