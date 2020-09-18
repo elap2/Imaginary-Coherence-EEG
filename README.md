@@ -1,16 +1,14 @@
 # Imaginary-Coherence-EEG
 
-# Background
-## Paper selected
-## Identifying true brain interaction from EEG data using the imaginary part of coherency
+## 1. Background
+### Paper selected: Identifying true brain interaction from EEG data using the imaginary part of coherency
 Guido Nolte 1, Ou Bai, Lewis Wheaton, Zoltan Mari, Sherry Vorbach, Mark Hallett
 Affiliations collapse
-Affiliation
-1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, Bldg 10, Room 5N226, Bethesda, MD 20892-1428, USA. nolteg@ninds.nih.gov
+Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, Bldg 10, Room 5N226, Bethesda, MD 20892-1428, USA. nolteg@ninds.nih.gov
 
-### https://pubmed.ncbi.nlm.nih.gov/15351371/
+#### https://pubmed.ncbi.nlm.nih.gov/15351371/
 
-# This is the Motor-Code
+## 2. This is the Motor-Code
 
 ```python
 # -*- coding: utf-8 -*-
