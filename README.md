@@ -7,7 +7,7 @@ Affiliations collapse
 Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, Bldg 10, Room 5N226, Bethesda, MD 20892-1428, USA. nolteg@ninds.nih.gov
 
 ### Equation:
-#### ![equation](9c64700cf2b13cd0dfa20b45c9a591a29c142d52 (1).svg)
+#### ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c64700cf2b13cd0dfa20b45c9a591a29c142d52)
 
 #### https://pubmed.ncbi.nlm.nih.gov/15351371/
 
