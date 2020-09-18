@@ -8,8 +8,9 @@ Affiliation 1Human Motor Control Section, NINDS, NIH, 10 Center Drive MSC 1428, 
 
 #### https://pubmed.ncbi.nlm.nih.gov/15351371/
 
-## 2. Output
-![](Analysis.png)
+## 2. Output Example
+# ![](Analysis.png)
+
 
 ## 3. This is the Motor-Code 
 #### [\Python 3.7](https://https://www.python.org/) 
