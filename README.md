@@ -129,4 +129,4 @@ def coherency(sampling_frequency,data):
 ```
 #### You need to incorporate the loading file to the main.py as it fits to your project
 ## 4. Contact
-
+workforsolutions:at:protonmail;com
